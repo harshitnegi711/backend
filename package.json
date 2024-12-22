@@ -1,0 +1,16 @@
+{
+  "name": "phaseone",
+  "version": "1.0.0",
+  "description": "its a basic starting of my backend journey.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "author": "Harshit Negi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
